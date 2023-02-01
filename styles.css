@@ -69,4 +69,8 @@ html {
   #piano {
     width: 358;
   }
+
+  .keys {
+    width: 318px;
+  }
 }
