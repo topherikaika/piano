@@ -60,7 +60,7 @@ html {
   top: 23px;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 769px) and (max-width: 1199px) {
   .card {
     padding: 2rem;
   }
