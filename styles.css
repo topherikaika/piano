@@ -64,3 +64,9 @@ html {
     padding: 2rem;
   }
 }
+
+@media (max-width: 768px) {
+  #piano {
+    width: 358;
+  }
+}
