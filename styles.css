@@ -64,6 +64,14 @@ html {
   .card {
     padding: 2rem;
   }
+
+  #piano {
+    width: 675px;
+  }
+
+  .keys {
+    width: 633px;
+  }
 }
 
 @media (max-width: 768px) {
